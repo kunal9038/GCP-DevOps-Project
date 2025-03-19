@@ -1,4 +1,2 @@
-# Docker flask application 
-
-- This application is written in python 
-- It shall be deployed on GKE 
+# This is the flask project 
+#this project is created in python language 
