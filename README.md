@@ -1,2 +1,1 @@
-# GCP-DevOps-Project
-This is the respository for  my new DevOps project 
+# This is the respository for  my new DevOps project 
